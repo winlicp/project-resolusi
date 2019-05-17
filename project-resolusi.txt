@@ -1,6 +1,7 @@
 Testing
 Testing Edit
-Hal yang perlu dilakukan :
-Mempelajari OOP
-Mendalami Struktur Data
+Tambahan dari Cabang 2
+Hal yang perlu dipertimbangkan:
+Mengerjakan web
+Menyelesaikan IMK
 Tambahan dari branch
