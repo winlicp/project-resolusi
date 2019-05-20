@@ -1,7 +1,6 @@
 Testing
 Testing Edit
-Tambahan dari Cabang 2
+Tambahan dari winlicp
 Hal yang perlu dipertimbangkan:
-Mengerjakan web
-Menyelesaikan IMK
-Tambahan dari branch
+String
+Array
